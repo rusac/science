@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Space
 
-You can use the [editor on GitHub](https://github.com/rusac/space/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Black Hole - First pictures of the event horizon
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Journal articles - sources](https://iopscience.iop.org/issue/2041-8205/875/1)
+- [News release - ESO](https://www.eso.org/public/news/eso1907/)
+- [Reddit discussion](https://www.reddit.com/r/space/comments/bblt4f/astronomers_capture_first_image_of_a_black_hole/)
+- [PBS Newshour - Scientists reveal first picture of a black hole](https://www.youtube.com/watch?v=m4NYuy8dwuk)
 
-### Markdown
+### The algorithm
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rusac/space/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Katherine Bouman TED Talk - Intro to process for obtaining picture of black hole](https://youtu.be/P7n2rYt9wfU)
+- [A method to image black holes](http://news.mit.edu/2016/method-image-black-holes-0606)
+- [Computational Imaging for VLBI Image Reconstruction - Bouman, Katherine](https://dspace.mit.edu/handle/1721.1/103077)
