@@ -20,3 +20,4 @@
 ### Clinical stories - mix of bio, chem, physiology,etc etc
 
 - [A Scientist Spilled 2 Drops Organic Mercury On Her Hand. This Is What Happened To Her Brain](https://www.youtube.com/watch?v=NJ7M01jV058) *Youtuber Dr. Bernard ("Chubbyemu") explains what happens with many details of biology, chemistry etc. He has many other videos that would be very interesting to students of the life sciences.*
+- [George Floyd Toxicology Report: Explained](https://www.youtube.com/watch?v=xRoqSyIi-98) *(also by Dr. Bernard)*
